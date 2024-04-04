@@ -12,6 +12,9 @@ A atividade foi desenvolvida pela seguinte equipe:<br>
 
  Neste repositório, contém o arquivo do código realizado e o vídeo de apresentação do projeto como um todo.
  <br>
-[![Assista ao vídeo](
+ <br>
+ 
+[![Assista ao vídeo](https://img.youtube.com/vi/Re5GCUI4zYk/0.jpg)](https://www.youtube.com/watch?v=Re5GCUI4zYk)
+
 
 ### Clique na imagem acima para assistir ao vídeo.
